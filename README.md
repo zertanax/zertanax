@@ -4,9 +4,9 @@
 ## Hi, I am zertanax castex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on python, Javascript
-- 🌱 I'm learning typescript, mongodb and python
+- 🌱 I'm learning typescript, mongodb and python , react.js , javascript 
 - 👯 I'm looking to do collaborative projects
-- 💬 you can talk to me on discord my tag is ๖̶ζ͜͡zertanax® ✪ # 0666
+- 💬 you can talk to me on discord my tag is 𓇬 | ๖̶ζ͜͡zertanax®#0666
 - ⚡ Fun fact:i love anime, manga, computers, games.
 
 
