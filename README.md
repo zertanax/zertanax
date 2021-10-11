@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zertanax" alt="zertanax" /> </p><br/>
-<img src="https://gifimage.net/wp-content/uploads/2018/10/1920x1080-anime-gif-2.gif"  width=1080px height=1920px/>
+<img src="https://78.media.tumblr.com/3c31949b19ae6cb4cb92f24f6568e6dc/tumblr_p0w2iwhxEW1wunjwgo3_500.gif"  width=500px height=257px/>
 
 ## Hi, I am zertanax castex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
