@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="540" alt="GIF" align="center" src="https://imgr.search.brave.com/oJlUbnFkihssiZt_0TxK3hfcHgy3TYa7g_CABmeRc9w/fit/540/304/ce/1/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tLzcyMzQ1OGZi/Y2Y2MmQ4NTJmOTdk/NWUzOWZjNGY1Zjhk/L3R1bWJscl9wbGw5/dmpTZzc2MXUybnFl/am8xXzU0MC5naWZ2">
+<img hight="300" width="540" alt="GIF" align="center" src="https://media1.tenor.com/images/51b1a4fa19893b8f341f5340d7748a20/tenor.gif">
 </div>
 
 </br>
