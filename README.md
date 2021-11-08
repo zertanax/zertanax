@@ -1,46 +1,106 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zertanax" alt="zertanax" /> </p><br/>
-<img src="https://78.media.tumblr.com/3c31949b19ae6cb4cb92f24f6568e6dc/tumblr_p0w2iwhxEW1wunjwgo3_500.gif"  width=500px height=257px/>
+# Konichiwa 👋
 
-## Hi, I am zertanax castex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<div align="center">
+<img hight="300" width="540" alt="GIF" align="center" src="https://imgr.search.brave.com/oJlUbnFkihssiZt_0TxK3hfcHgy3TYa7g_CABmeRc9w/fit/540/304/ce/1/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tLzcyMzQ1OGZi/Y2Y2MmQ4NTJmOTdk/NWUzOWZjNGY1Zjhk/L3R1bWJscl9wbGw5/dmpTZzc2MXUybnFl/am8xXzU0MC5naWZ2">
+</div>
 
-- 🔭 I’m currently working on python, Javascript
-- 🌱 I'm learning typescript, mongodb and python , react.js , javascript 
-- 👯 I'm looking to do collaborative projects
-- 💬 you can talk to me on discord my tag is 𓇬 | ๖̶ζ͜͡zertanax®#0666
-- ⚡ Fun fact:i love anime, manga, computers, games.
-
-
-  
-## ⚙ Languages and Tools  I use : 
-<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+</br>
+</br>
+</br>
 
 
-<img align="left" alt="GitHub" width="65px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<a href="https://www.npmjs.com/" target="_blank"><img align="left" alt="npm" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></a>
-<a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"><img align="left" alt="javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" /></a>
+# About ME 💬 :
 
-<a href="https://code.visualstudio.com/download" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
-<br/><br/>
-<br/>
-## My Stats
-<p>
-<a href="https://github.com/zertanax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zertanax&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zertanax&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
+### - I'm XX years  old Machine Learning & Artificial Intelligence Enthusiast from france.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://imgr.search.brave.com/wo30q_p5oHhj6i9OPTmayVkQb17cl3yR_RV7FibZIrw/fit/500/281/ce/1/aHR0cHM6Ly82Ni5t/ZWRpYS50dW1ibHIu/Y29tLzcwNmMwMDBm/NmQwOTZkNmM3OTg5/N2Q4OTM3NzZiOTE3/L3R1bWJscl9wbDR2/cHloWEJnMXV5aHox/cG8xX3IxXzUwMC5n/aWY.gif">
+
+### - Learning :
+- ✨ javascript & Algorithms
+- ✨ Cybersecurity
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ salilling lover
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="120" hight="50">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java"  width="100" hight="50">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AI" width="90" hight="50">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="bash" width="100" hight="50">
+<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="pc" width="100" hight="50">
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="edge" width="100" hight="50">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="playstation" width="150" hight="50">
 </p>
-
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=zertanax&layout=compact" alt="zertanax" />
-<br/>
-
-## Connect With Me
-<a href="https://www.instagram.com/_zertanax/" target="_blank"><img align="left" alt="Instagram" width="100px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" /></a>
-
-<a href="https://twitter.com/zertanax" target="_blank"><img align="left" alt="twitter" width="85px" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" /></a>
+</br>
+</br>
+</br>
 
 
-<br>
 
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://pa1.narvii.com/5765/ad7b63f6c27d352b128038498784bb8bb6df35bc_hq.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:zertanaxpro@protonmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+<a href="https://discord.gg/asurafr">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://steamcommunity.com/profiles/zertanax/">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+" />
+</a>
+<a href="https://steamcommunity.com/profiles/zertanax/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=zertanax&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
