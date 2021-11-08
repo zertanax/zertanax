@@ -13,7 +13,7 @@
 
 ### - I'm XX years  old Machine Learning & Artificial Intelligence Enthusiast from france.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://imgr.search.brave.com/wo30q_p5oHhj6i9OPTmayVkQb17cl3yR_RV7FibZIrw/fit/500/281/ce/1/aHR0cHM6Ly82Ni5t/ZWRpYS50dW1ibHIu/Y29tLzcwNmMwMDBm/NmQwOTZkNmM3OTg5/N2Q4OTM3NzZiOTE3/L3R1bWJscl9wbDR2/cHloWEJnMXV5aHox/cG8xX3IxXzUwMC5n/aWY.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://th.bing.com/th/id/R.60e39b86ad2956170714e0de74da976d?rik=Kisrwy8qPhZe1A&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f07%2fangry-anime-gif-18.gif">
 
 ### - Learning :
 - ✨ javascript & Algorithms
