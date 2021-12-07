@@ -13,7 +13,7 @@
 
 ### - I'm XX years  old Machine Learning & Artificial Intelligence Enthusiast from france.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/191/191201.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://th.bing.com/th/id/R.57101336ad331a3f315e7d676d2fa5c5?rik=A84lRg1yWewFpw&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f08%2fkurumi-tokisaki-gif-15.gif&ehk=dIufStAy0cyyVTQczcJx1OU8SklaRGNvm2Xe2wL4t3k%3d&risl=&pid=ImgRaw&r=0">
 
 ### - Learning :
 - ✨ javascript & Algorithms
