@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# salam 👋
 
 <div align="center">
 <img hight="300" width="540" alt="GIF" align="center" src="https://media1.tenor.com/images/51b1a4fa19893b8f341f5340d7748a20/tenor.gif">
